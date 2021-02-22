@@ -1,0 +1,145 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-25 16:12:19 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 16:12:19 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 16:12:19 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 16:12:25 --> Could not find the language line "edit_user_heading"
+ERROR - 2020-12-25 16:12:25 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 16:12:25 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 16:12:32 --> Could not find the language line "edit_user_heading"
+ERROR - 2020-12-25 16:12:33 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 16:12:33 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 16:12:39 --> Could not find the language line "edit_user_heading"
+ERROR - 2020-12-25 16:12:40 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 16:12:40 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 17:44:21 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 17:44:21 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 17:44:21 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 17:44:21 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 17:44:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 17:44:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 17:44:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 17:44:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:01:32 --> Severity: error --> Exception: Too few arguments to function Mod_page_builder::walKul(), 0 passed in D:\xampp\htdocs\easy-ci\system\core\CodeIgniter.php on line 532 and exactly 2 expected D:\xampp\htdocs\easy-ci\application\modules\mod_page_builder\controllers\Mod_page_builder.php 95
+ERROR - 2020-12-25 20:02:53 --> Severity: error --> Exception: syntax error, unexpected '}' D:\xampp\htdocs\easy-ci\application\modules\mod_page_builder\controllers\Mod_page_builder.php 135
+ERROR - 2020-12-25 20:03:05 --> Severity: error --> Exception: Too few arguments to function Mod_page_builder::walKul(), 0 passed in D:\xampp\htdocs\easy-ci\system\core\CodeIgniter.php on line 532 and exactly 2 expected D:\xampp\htdocs\easy-ci\application\modules\mod_page_builder\controllers\Mod_page_builder.php 95
+ERROR - 2020-12-25 20:03:45 --> Severity: error --> Exception: Too few arguments to function Mod_page_builder::walKul(), 0 passed in D:\xampp\htdocs\easy-ci\system\core\CodeIgniter.php on line 532 and exactly 2 expected D:\xampp\htdocs\easy-ci\application\modules\mod_page_builder\controllers\Mod_page_builder.php 95
+ERROR - 2020-12-25 20:05:28 --> Severity: error --> Exception: Too few arguments to function Mod_page_builder::walKul(), 0 passed in D:\xampp\htdocs\easy-ci\system\core\CodeIgniter.php on line 532 and exactly 2 expected D:\xampp\htdocs\easy-ci\application\modules\mod_page_builder\controllers\Mod_page_builder.php 95
+ERROR - 2020-12-25 20:06:13 --> Severity: error --> Exception: Too few arguments to function Mod_page_builder::walKul(), 0 passed in D:\xampp\htdocs\easy-ci\system\core\CodeIgniter.php on line 532 and exactly 2 expected D:\xampp\htdocs\easy-ci\application\modules\mod_page_builder\controllers\Mod_page_builder.php 95
+ERROR - 2020-12-25 20:06:19 --> Severity: error --> Exception: Too few arguments to function Mod_page_builder::walKul(), 0 passed in D:\xampp\htdocs\easy-ci\system\core\CodeIgniter.php on line 532 and exactly 2 expected D:\xampp\htdocs\easy-ci\application\modules\mod_page_builder\controllers\Mod_page_builder.php 95
+ERROR - 2020-12-25 20:10:16 --> Severity: Warning --> Invalid argument supplied for foreach() D:\xampp\htdocs\easy-ci\application\modules\mod_page_builder\controllers\Mod_page_builder.php 96
+ERROR - 2020-12-25 20:30:04 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:30:04 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:30:04 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:30:04 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:30:04 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:33:03 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:33:03 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:33:04 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:33:04 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:33:04 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:35:17 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:35:17 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:35:18 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:35:18 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:35:18 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:39:41 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:39:41 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:39:42 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:39:42 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:39:42 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:40:37 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:40:37 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:40:37 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:40:37 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 20:40:37 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:19:44 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:19:44 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:19:45 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:19:45 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:19:45 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:20:05 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:20:05 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:20:05 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:20:05 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:20:05 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:21:41 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:21:41 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:21:42 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:21:42 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:21:42 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:21:56 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:21:56 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:21:56 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:21:56 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:21:56 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:24:30 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:24:30 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:24:30 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:24:30 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:24:30 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:25:42 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:25:42 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:25:43 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:25:43 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:25:43 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:26:32 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:26:32 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:26:32 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:26:32 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:26:32 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:26:55 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:26:55 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:26:56 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:26:56 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:26:56 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:28:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:28:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:28:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:28:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:28:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:29:34 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:29:34 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:29:34 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:29:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:29:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:31:57 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:31:57 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:31:57 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:31:57 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:31:57 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:34:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:34:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:34:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:34:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:34:35 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:35:04 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:35:04 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:35:04 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:35:04 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:35:04 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:35:44 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:35:44 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:35:44 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:35:44 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:35:44 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:36:27 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:36:27 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:36:28 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:36:28 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:36:28 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:36:43 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:36:43 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:36:43 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:36:43 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:36:43 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:37:07 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:37:08 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:37:08 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:37:08 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:37:08 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:39:20 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:39:20 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:39:21 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:39:21 --> 404 Page Not Found: /index
+ERROR - 2020-12-25 21:39:21 --> 404 Page Not Found: /index

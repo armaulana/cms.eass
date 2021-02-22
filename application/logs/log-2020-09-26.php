@@ -1,0 +1,101 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-09-26 07:29:21 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:29:32 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:29:40 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:29:41 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:30:03 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:30:03 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:31:16 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:31:16 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:37:23 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:37:24 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:38:28 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:38:28 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:39:09 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:40:53 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:42:06 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:44:49 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:44:49 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:04 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:04 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:11 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:11 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:11 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:11 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:11 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:12 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:12 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:12 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:12 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:12 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:12 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:12 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:12 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:12 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:15 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:15 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:20 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:45:21 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:46:15 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:46:16 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:46:18 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:46:18 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:46:18 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:46:18 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:46:18 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:14 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:14 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:14 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:14 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:15 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:26 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:26 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:26 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:26 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:26 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:27 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:27 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:27 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:27 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:27 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:27 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:27 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:27 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:27 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:29 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:29 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:29 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:29 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:30 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:36 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:36 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:36 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:36 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:36 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:55:41 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:56:18 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 07:56:54 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 08:51:28 --> Query error: Unknown column 'c.users' in 'where clause' - Invalid query: 
+                        SELECT * FROM master_menu_administrator a 
+                        LEFT JOIN users_access2 b ON b.users_menu_id = a.id 
+                        LEFT JOIN users c ON c.users_level_id = b.users_level_id 
+                        WHERE a.parent='0' AND c.users = 1 
+            
+ERROR - 2020-09-26 08:51:28 --> Severity: error --> Exception: Call to a member function num_rows() on boolean D:\xampp\htdocs\aapp-web\application\models\ModelMenu.php 37
+ERROR - 2020-09-26 08:56:23 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 08:56:52 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 08:57:17 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 08:57:17 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 08:57:39 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 08:57:41 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 08:57:41 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 08:58:36 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 10:34:33 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 10:34:33 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 10:37:50 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 10:37:50 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 10:38:56 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 10:41:18 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 10:41:39 --> 404 Page Not Found: /index
+ERROR - 2020-09-26 10:41:58 --> 404 Page Not Found: /index

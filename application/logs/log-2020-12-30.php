@@ -1,0 +1,141 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-30 11:35:14 --> Query error: Table 'aapp_web.statis_home' doesn't exist - Invalid query: SELECT *
+FROM `statis_home`
+ORDER BY `page_order`
+ERROR - 2020-12-30 11:35:14 --> Severity: error --> Exception: Call to a member function result() on boolean D:\xampp\htdocs\easy-ci\application\modules\front_page\controllers\Front_Page.php 27
+ERROR - 2020-12-30 11:40:59 --> Severity: Warning --> Invalid argument supplied for foreach() D:\xampp\htdocs\easy-ci\application\views\1_front\2-content.php 2
+ERROR - 2020-12-30 11:47:42 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:47:42 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:48:29 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:48:29 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:48:45 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:48:45 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:50:10 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:50:10 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:52:21 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:55:20 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:55:20 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:55:20 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:55:20 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:55:20 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:57:03 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:57:03 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:57:03 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:57:03 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:57:03 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:59:53 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:59:53 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:59:53 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:59:53 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:59:53 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:59:54 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:59:54 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 11:59:54 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:00:41 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:00:41 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:00:41 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:00:41 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:00:41 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:00:41 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:00:41 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:00:41 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:00 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:00 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:00 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:00 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:00 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:00 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:00 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:00 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:16 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:16 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:16 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:16 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:16 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:16 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:16 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:01:16 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:02:07 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:02:07 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:02:07 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:02:07 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:02:07 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:02:07 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:02:07 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:02:56 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:02:56 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:02:56 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:02:56 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:02:57 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:02:57 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:02:57 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:03:48 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:03:48 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:03:48 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:03:48 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:03:48 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:03:48 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 12:03:48 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 15:30:20 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 15:30:20 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:16:59 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:16:59 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:17:26 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:17:26 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:23:40 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:23:40 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:24:49 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:24:49 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:25:13 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:25:13 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:25:58 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:25:58 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:26:31 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:26:31 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:28:45 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:28:45 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:29:26 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:29:26 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:30:13 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:30:13 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:30:26 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:30:26 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:31:14 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:31:14 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:31:44 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:31:44 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:33:23 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:33:23 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:33:44 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:33:44 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:35:54 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:35:54 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:38:26 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:38:26 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:39:17 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:39:17 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:40:23 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:40:23 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:40:56 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:40:56 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:41:14 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:41:14 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:42:05 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 16:42:05 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 17:08:53 --> Severity: error --> Exception: syntax error, unexpected ',' D:\xampp\htdocs\easy-ci\application\modules\front_page\controllers\Front_Page.php 28
+ERROR - 2020-12-30 17:10:34 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 17:10:36 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 17:11:22 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 17:11:22 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 17:15:54 --> Severity: error --> Exception: syntax error, unexpected ',' D:\xampp\htdocs\easy-ci\application\modules\front_page\controllers\Front_Page.php 28
+ERROR - 2020-12-30 17:16:07 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ',' or ')' D:\xampp\htdocs\easy-ci\application\modules\front_page\controllers\Front_Page.php 29
+ERROR - 2020-12-30 17:16:59 --> Query error: Table 'aapp_web.array' doesn't exist - Invalid query: UPDATE Array SET `read` = 9
+ERROR - 2020-12-30 17:17:16 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 17:17:16 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 17:17:39 --> Query error: Table 'aapp_web.array' doesn't exist - Invalid query: UPDATE Array SET `read` = 9
+ERROR - 2020-12-30 17:17:45 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 17:17:45 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 17:21:02 --> Query error: Table 'aapp_web.array' doesn't exist - Invalid query: UPDATE Array SET `read` = 7
+ERROR - 2020-12-30 17:21:12 --> 404 Page Not Found: /index
+ERROR - 2020-12-30 17:21:12 --> 404 Page Not Found: /index
